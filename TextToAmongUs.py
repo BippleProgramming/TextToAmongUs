@@ -8,3 +8,4 @@ for i in input_str:
         amogus_str += " "
         
 print(amogus_str)
+print("i love amogus")
