@@ -6,4 +6,5 @@ for i in input_str:
         amogus_str += "ඞ"
     else:
         amogus_str += " "
+        
 print(amogus_str)
